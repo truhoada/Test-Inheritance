@@ -81,6 +81,7 @@
 		1723307D1DC20BFB00D51EAA /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
+				172330811DC20C2200D51EAA /* BaseControllers */,
 				1723307E1DC20BFB00D51EAA /* ViewController.h */,
 				1723307F1DC20BFB00D51EAA /* ViewController.m */,
 			);
@@ -94,15 +95,15 @@
 				172330841DC20D7400D51EAA /* HTBaseViewController.m */,
 			);
 			name = BaseControllers;
-			path = "/Users/trunghoangdang/Desktop/Code Test/TestInheritance/TestInheritance/Common/BaseControllers";
+			path = "/Users/trunghoangdang/Desktop/Code Test/TestInheritance/TestInheritance/Controllers/BaseControllers";
 			sourceTree = "<absolute>";
 		};
 		172330821DC20CDB00D51EAA /* Common */ = {
 			isa = PBXGroup;
 			children = (
-				172330811DC20C2200D51EAA /* BaseControllers */,
 			);
-			path = Common;
+			name = Common;
+			path = ../Common;
 			sourceTree = "<group>";
 		};
 		17AB553F1DC1971D002932C5 = {
